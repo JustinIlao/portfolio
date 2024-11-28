@@ -1,0 +1,66 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "Images/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "Images/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "Images/react.png"
+    },
+    {
+      "title": "Regex",
+      "imageSrc": "Images/regex.png"
+    },
+    {
+      "title": "Powershell",
+      "imageSrc": "Images/pshell.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "Images/python1.png"
+    },
+    {
+      "title": "Cisco IOS",
+      "imageSrc": "Images/cisco.png"
+    },
+    {
+      "title": "Wireshark",
+      "imageSrc": "Images/wires.png"
+    },
+    {
+      "title": "Proxmox",
+      "imageSrc": "Images/prox.png"
+    },
+    {
+      "title": "Pfsense",
+      "imageSrc": "Images/pfsense.png"
+    },
+    {
+      "title": "Apache",
+      "imageSrc": "Images/apa.png"
+    },
+    {
+      "title": "Nginx",
+      "imageSrc": "Images/nginx.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "Images/linux.png"
+    },
+    {
+      "title": "Windows/Windows Server",
+      "imageSrc": "Images/microsoft.png"
+    },
+    {
+      "title": "MacOS",
+      "imageSrc": "Images/apple.png"
+    },
+    {
+      "title": "Google Cloud",
+      "imageSrc": "Images/gcloud.png"
+    }
+  ]

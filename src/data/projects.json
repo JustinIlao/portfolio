@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Homelab",
+      "imageSrc": "Images/project.png",
+      "description": "Multi-purpose homelab for cybersecurity, automation, and QOL",
+      "skills": [""],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/JustinIlao/Homelab"
+    },
+    {
+      "title": "Case Study",
+      "imageSrc": "Images/case.png",
+      "description": "Configured a hierarchal network with end to end connectivty.",
+      "skills": [""],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/JustinIlao/NetworkingCaseStudy"
+    }
+  ]

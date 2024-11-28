@@ -1,0 +1,18 @@
+[
+    {
+      "role": "IT Intern",
+      "organisation": "Paradigm Electronics Inc",
+      "startDate": "April, 2024",
+      "endDate": "Present",
+      "experiences": ["Part of a multipurpose IT team assisting in Helpdesk, Scripting, Cloud, Networking, and Cybersecurity"],
+      "imageSrc": "Images/paradigm.png"
+    },
+    {
+      "role": "Python Developer",
+      "organisation": "Natural Movers Corporation",
+      "startDate": "Independent Contractor",
+      "endDate": "April, 2024",
+      "experiences": ["Developed a data scraper that organized real estate listing info into a spreadsheet to increase efficency and reduce manual processes"],
+      "imageSrc": "Images/natmov.png"
+    }
+  ]
