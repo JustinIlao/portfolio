@@ -10,7 +10,7 @@
     {
       "title": "Case Study",
       "imageSrc": "Images/case.png",
-      "description": "Configured a hierarchal network with end to end connectivty.",
+      "description": "Configured a multi-protocol network with end to end connectivty.",
       "skills": [""],
       "demo": "https://www.example.com",
       "source": "https://github.com/JustinIlao/NetworkingCaseStudy"
